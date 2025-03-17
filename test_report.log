@@ -1,0 +1,60 @@
+2025-03-13 18:17:23,340 - INFO - ====== WebDriver manager ======
+2025-03-13 18:17:29,997 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-13 18:17:30,153 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-13 18:17:30,290 - INFO - Driver [C:\Users\SBAGWAN\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-13 18:17:33,490 - INFO - Opening SauceDemo login page...
+2025-03-13 18:17:36,362 - INFO - SauceDemo login page opened successfully.
+2025-03-13 18:17:36,364 - INFO - Entering valid username and password...
+2025-03-13 18:17:36,942 - INFO - Entered valid credentials.
+2025-03-13 18:17:36,946 - INFO - Clicking the login button...
+2025-03-13 18:17:48,974 - INFO - Login button clicked.
+2025-03-13 18:17:48,992 - INFO - Verifying if the user is redirected to the inventory page...
+2025-03-13 18:17:49,126 - INFO - Successfully redirected to the inventory page.
+2025-03-13 18:17:56,077 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C42534610>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5f0a089f3c7ae683f9a5f3f00910216b
+2025-03-13 18:18:00,172 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C42534AC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5f0a089f3c7ae683f9a5f3f00910216b
+2025-03-13 18:18:04,240 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C42534C40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5f0a089f3c7ae683f9a5f3f00910216b
+2025-03-13 18:18:12,455 - INFO - ====== WebDriver manager ======
+2025-03-13 18:18:18,139 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-13 18:18:18,288 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-13 18:18:18,502 - INFO - Driver [C:\Users\SBAGWAN\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-13 18:18:21,591 - INFO - Opening SauceDemo login page...
+2025-03-13 18:18:24,419 - INFO - SauceDemo login page opened successfully.
+2025-03-13 18:18:24,420 - INFO - Entering invalid username and password...
+2025-03-13 18:18:24,792 - INFO - Entered invalid credentials.
+2025-03-13 18:18:24,794 - INFO - Clicking the login button...
+2025-03-13 18:18:26,930 - INFO - Login button clicked.
+2025-03-13 18:18:26,932 - INFO - Verifying error message after failed login...
+2025-03-13 18:18:26,992 - INFO - Error message displayed: Epic sadface: Username and password do not match any user in this service
+2025-03-13 18:18:33,615 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C4255EA00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/63d09cdbca9efc4a076d5757ae73cf4c
+2025-03-13 18:18:37,713 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C4255E520>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/63d09cdbca9efc4a076d5757ae73cf4c
+2025-03-13 18:18:41,814 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020C4255E5B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/63d09cdbca9efc4a076d5757ae73cf4c
+2025-03-13 18:53:09,074 - INFO - ====== WebDriver manager ======
+2025-03-13 18:53:13,066 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-13 18:53:13,260 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-13 18:53:13,417 - INFO - Driver [C:\Users\SBAGWAN\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-13 18:53:15,536 - INFO - Opening SauceDemo login page...
+2025-03-13 18:53:17,982 - INFO - SauceDemo login page opened successfully.
+2025-03-13 18:53:17,983 - INFO - Entering valid username and password...
+2025-03-13 18:53:18,266 - INFO - Entered valid credentials.
+2025-03-13 18:53:18,267 - INFO - Clicking the login button...
+2025-03-13 18:53:25,613 - INFO - Login button clicked.
+2025-03-13 18:53:25,614 - INFO - Verifying if the user is redirected to the inventory page...
+2025-03-13 18:53:25,626 - INFO - Successfully redirected to the inventory page.
+2025-03-13 18:53:32,115 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002394A5F5640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9c5684594edd77f00de4eb4b93a8f199
+2025-03-13 18:53:36,213 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002394A5F5AC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9c5684594edd77f00de4eb4b93a8f199
+2025-03-13 18:53:40,302 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002394A5F5C40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9c5684594edd77f00de4eb4b93a8f199
+2025-03-13 18:53:48,500 - INFO - ====== WebDriver manager ======
+2025-03-13 18:53:52,445 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-13 18:53:52,580 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-13 18:53:52,716 - INFO - Driver [C:\Users\SBAGWAN\.wdm\drivers\chromedriver\win64\134.0.6998.88\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-13 18:53:54,842 - INFO - Opening SauceDemo login page...
+2025-03-13 18:53:57,346 - INFO - SauceDemo login page opened successfully.
+2025-03-13 18:53:57,347 - INFO - Entering invalid username and password...
+2025-03-13 18:53:57,569 - INFO - Entered invalid credentials.
+2025-03-13 18:53:57,570 - INFO - Clicking the login button...
+2025-03-13 18:53:59,691 - INFO - Login button clicked.
+2025-03-13 18:53:59,693 - INFO - Verifying error message after failed login...
+2025-03-13 18:53:59,767 - INFO - Error message displayed: Epic sadface: Username and password do not match any user in this service
+2025-03-13 18:54:06,211 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002394A60AA00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9614d56cb922732f34087c283bbda6c8
+2025-03-13 18:54:10,309 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002394A60A520>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9614d56cb922732f34087c283bbda6c8
+2025-03-13 18:54:14,402 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002394A60A5B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/9614d56cb922732f34087c283bbda6c8
